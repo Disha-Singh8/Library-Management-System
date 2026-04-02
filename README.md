@@ -302,9 +302,3 @@ This is a complete assessment project demonstrating:
 - Role-based access control
 
 ---
-
-##  License
-
-Assessment Project - Educational Use Only
-
----
