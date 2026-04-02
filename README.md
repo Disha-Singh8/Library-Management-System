@@ -289,7 +289,7 @@ node seed.js       # Re-seed demo data
 
 ##  Learning Notes
 
-This is a complete assessment project demonstrating:
+This is a complete project demonstrating:
 - Full-stack web development (React + Node.js)
 - RESTful API design
 - SQLite database management
